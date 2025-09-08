@@ -26,11 +26,13 @@
    1. tags
    2. article
 4. 实现后端简单信息
-   3. 系统参数
+   1. 系统参数
       1. 分页信息
       2. 请求路径、IP
       3. 服务器配置
 5. 改造zap输出
+    1. sugar化
+    1. 自写的cutter换为lumberjack
 6. 项目自动构建部署
    1. jenkins ？
 7. es
